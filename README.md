@@ -3,9 +3,10 @@
 
 szl2's participation
 
-##  progress
+Language: Python
 
-- [ ] Day 1 
+##  progress
+- [x] Day 1 (01/14/2025)
 - [ ] Day 2
 - [ ] Day 3 
 - [ ] Day 4 
